@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "chat-8e243": {
+      "hosting": {
+        "app": [
+          "chat-8e243"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "chat-8e243"
+  }
+}
